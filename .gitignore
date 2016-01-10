@@ -1,5 +1,6 @@
 # Eclipse trash
 .metadata/
+.recommenders/
 
 # Compiled stuff
 *.class
